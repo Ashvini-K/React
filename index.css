@@ -1,0 +1,42 @@
+body{
+  padding: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+  background: #27292c;
+  color: white;
+}
+
+h1{
+  margin-top: 0px;
+  margin-bottom: 0;
+  padding: 0.6rem;
+}
+
+img{
+  vertical-align: middle;
+  width:40px;
+  height: 40px;
+  margin: 20px;
+}
+
+.image1{
+  display: flex;
+  align-items: center;
+}
+
+.facts{
+  padding: 50px;
+}
+
+.bg-body-tertiary{
+  width: auto;
+  height: 50px;
+}
+
+.fixedfooter{
+  position:absolute;
+  font-size: small;
+  text-align: center;
+  left:0;
+  bottom:0;
+  right:0;
+}
